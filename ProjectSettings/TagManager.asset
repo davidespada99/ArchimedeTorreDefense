@@ -44,9 +44,18 @@ TagManager:
   - name: Path
     uniqueID: 3239235115
     locked: 0
+  - name: Map
+    uniqueID: 1009162277
+    locked: 0
   - name: Shop
     uniqueID: 2446470645
     locked: 0
-  - name: Map
-    uniqueID: 1009162277
+  - name: Turret
+    uniqueID: 652883747
+    locked: 0
+  - name: Enemy
+    uniqueID: 1927714775
+    locked: 0
+  - name: Icons
+    uniqueID: 3508813435
     locked: 0
